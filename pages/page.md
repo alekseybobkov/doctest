@@ -6,13 +6,13 @@ Some text goes here.
 
 ![test image](../images/not_available.png?raw=true)
 
-## PHP example
+###PHP example
 ````php
 protected $refererUrl = null;
 protected $refererName = null;
 protected $refererObj = false;
 ````
-## JavaScript example
+###JavaScript example
 ````javascript
 _trace: function(message) {
   if (window.console)
