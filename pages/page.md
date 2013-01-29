@@ -2,7 +2,7 @@
 
 Some text goes here.
 
-1. [link to the parent page](../index.md)
+1. [link to the parent page](/pages/index.md)
 
 ![test image](../images/not_available.png?raw=true)
 
